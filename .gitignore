@@ -1,0 +1,18 @@
+# Python backend
+/python-backend/__pycache__/
+/python-backend/*.py[oc]
+/python-backend/build/
+/python-backend/dist/
+/python-backend/wheels/
+/python-backend/*.egg-info
+/python-backend/.venv
+/python-backend/.uv
+
+# Node / Angular frontend (to be added later)
+/node_modules/
+/dist/
+/tmp/
+*.log
+
+# IDE / Editor specific
+.vscode/
